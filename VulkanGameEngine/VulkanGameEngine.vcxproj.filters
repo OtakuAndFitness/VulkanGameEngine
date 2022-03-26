@@ -30,6 +30,9 @@
     <ClCompile Include="lve_device.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LveSwapChain.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lve_window.hpp">
@@ -42,6 +45,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="lve_device.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LveSwapChain.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

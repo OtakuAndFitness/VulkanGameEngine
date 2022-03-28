@@ -1,4 +1,6 @@
 ﻿  first_app.cpp
+  lve_model.cpp
+  lve_swap_chain.cpp
   lve_pipeline.cpp
   main.cpp
   正在生成代码...

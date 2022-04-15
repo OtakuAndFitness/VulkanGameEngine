@@ -36,6 +36,12 @@
     <ClCompile Include="lve_model.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="lve_renderer.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="simple_render_system.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lve_window.hpp">
@@ -54,6 +60,15 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="lve_model.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lve_game_object.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lve_renderer.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="simple_render_system.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

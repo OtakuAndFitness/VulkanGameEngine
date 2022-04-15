@@ -1,5 +1,2 @@
-﻿  first_app.cpp
-  lve_swap_chain.cpp
-  main.cpp
-  正在生成代码...
+﻿  lve_renderer.cpp
   VulkanGameEngine.vcxproj -> C:\Users\suppe\Downloads\VulkanGameEngine\x64\Debug\VulkanGameEngine.exe
